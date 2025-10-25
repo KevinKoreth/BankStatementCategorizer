@@ -1,0 +1,10 @@
+# python
+*.pyc
+__pycache__/
+.venv/
+env/
+venv/
+.idea/
+.vscode/
+# Sensitive files
+sample_statements/

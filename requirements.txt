@@ -1,0 +1,12 @@
+distro==1.9.0
+et_xmlfile==2.0.0
+jpype1==1.6.0
+numpy==2.3.4
+openpyxl==3.1.5
+packaging==25.0
+pandas==2.3.3
+python-dateutil==2.9.0.post0
+pytz==2025.2
+six==1.17.0
+tabula-py==2.10.0
+tzdata==2025.2
